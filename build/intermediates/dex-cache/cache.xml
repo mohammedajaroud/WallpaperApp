@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\PROJECT\WallpaperApp\WallpaperApp\libs\listviewanimations_lib-core-slh_3.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a4fe703aabd23e8c287c90396514418119109dd1">
+        <dex dex="D:\PROJECT\WallpaperApp\WallpaperApp\build\intermediates\pre-dexed\release\listviewanimations_lib-core-slh_3.1.0-92fd97ede656bcc7af4de2d54c29fb0e87779dfe.jar" />
+    </item>
+    <item
+        jar="D:\PROJECT\WallpaperApp\WallpaperApp\libs\listviewanimations_lib-manipulation_3.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="63737e512fcd9e0ebe9bcd0bb375c2dded74116f">
+        <dex dex="D:\PROJECT\WallpaperApp\WallpaperApp\build\intermediates\pre-dexed\release\listviewanimations_lib-manipulation_3.1.0-793ce197a38dec22186830514d6fbe337d2acd98.jar" />
+    </item>
+    <item
+        jar="D:\PROJECT\WallpaperApp\WallpaperApp\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="efec67655f6db90757faa37201efcee2a9ec3507">
+        <dex dex="D:\PROJECT\WallpaperApp\WallpaperApp\build\intermediates\pre-dexed\release\android-support-v4-2cc6b9f8ce3676e6970abaf489217552ec2ca390.jar" />
+    </item>
+    <item
+        jar="D:\PROJECT\WallpaperApp\WallpaperApp\build\intermediates\exploded-aar\WallpaperApp\cropper\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="13451a3e7c318dacd3dd9391202cc4e7c37d136b">
+        <dex dex="D:\PROJECT\WallpaperApp\WallpaperApp\build\intermediates\pre-dexed\release\classes-e6439375e3ce338beecacc868d3f6a338ab8f76c.jar" />
+    </item>
+    <item
+        jar="D:\PROJECT\WallpaperApp\WallpaperApp\libs\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="973e832af433b44c3ed11c426f2f390b29f3f3f8">
+        <dex dex="D:\PROJECT\WallpaperApp\WallpaperApp\build\intermediates\pre-dexed\release\gson-2.2.4-7092b821d67d6b1c1e889997b66e74dd6c4d1a31.jar" />
+    </item>
+    <item
+        jar="D:\PROJECT\WallpaperApp\WallpaperApp\libs\listviewanimations_lib-core_3.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f3f9629b068554d8513a2aaf34418171bf430851">
+        <dex dex="D:\PROJECT\WallpaperApp\WallpaperApp\build\intermediates\pre-dexed\release\listviewanimations_lib-core_3.1.0-0d97ee2184aeb9b2c93e1f3d8f49eb167af8dc9b.jar" />
+    </item>
+    <item
+        jar="D:\PROJECT\WallpaperApp\WallpaperApp\libs\universal-image-loader-1.9.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="D:\PROJECT\WallpaperApp\WallpaperApp\build\intermediates\pre-dexed\release\universal-image-loader-1.9.3-d433abd3f22a53d3ba4c811f99f8d0530edf214a.jar" />
+    </item>
+    <item
+        jar="D:\PROJECT\WallpaperApp\WallpaperApp\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="D:\PROJECT\WallpaperApp\WallpaperApp\build\intermediates\pre-dexed\release\nineoldandroids-2.4.0-c83a1030aeec8907c404c3ffbe639f0c753d1271.jar" />
+    </item>
+    <item
+        jar="D:\PROJECT\WallpaperApp\WallpaperApp\libs\libGoogleAnalyticsServices.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e887c6c9b31b39a39b0eaba981448b78902ea813">
+        <dex dex="D:\PROJECT\WallpaperApp\WallpaperApp\build\intermediates\pre-dexed\release\libGoogleAnalyticsServices-7c2063cf16a8f7d1e2879596d3248044e6f87e85.jar" />
+    </item>
+
+</items>
