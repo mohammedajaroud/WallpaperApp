@@ -1,0 +1,16 @@
+<resources>
+
+    <style name="AppBaseTheme" parent="android:Theme.Holo.Light"></style>
+
+    <style name="SplashScreenStyle" parent="android:Theme.Holo.Light.Dialog">
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowSoftInputMode">stateAlwaysHidden</item>
+        <item name="android:windowActionModeOverlay">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@color/main_color_primary</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowAnimationStyle">@style/FadeoutSplashScreenStyle</item>
+    </style>
+
+</resources>

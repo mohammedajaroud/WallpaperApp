@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Blue Grey theme -->
+
+    <color name="main_color_primary_50_percent">#80263238</color>
+    <color name="main_color_primary_80_percent">#cc263238</color>
+    <color name="main_color_primary_90_percent">#e6263238</color>
+    <color name="main_color_secondary_50_percent">#8037474f</color>
+    <color name="main_color_secondary_90_percent">#e637474f</color>
+    <color name="main_color_tertiary_30_percent">#4d455a64</color>
+
+    <color name="text_color">@color/material_light_green_400</color>
+    <color name="main_color_primary">@color/material_blue_grey_900</color>
+    <color name="main_color_secondary">@color/material_blue_grey_800</color>
+    <color name="main_color_tertiary">@color/material_blue_grey_700</color>
+
+    <color name="action_bar_color">@color/main_color_primary</color>
+    <color name="action_bar_text_color">@android:color/white</color>
+    <color name="left_menu_color">@color/main_color_secondary_90_percent</color>
+    <color name="full_screen_image_background">@color/main_color_primary</color>
+
+    <color name="main_color_grey_100">@color/material_grey_100</color>
+    <color name="main_color_grey_600">@color/material_grey_600</color>
+    <color name="main_color_grey_800">@color/material_grey_800</color>
+
+</resources>

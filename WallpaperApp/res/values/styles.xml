@@ -1,0 +1,82 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="AppBaseTheme" parent="android:Theme.Light"></style>
+
+    <style name="AppTheme" parent="AppBaseTheme">
+        <item name="android:background">@color/main_color_primary</item>
+    </style>
+
+    <style name="CustomDialogTheme" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+    <style name="LeftMenu" parent="AppTheme">
+        <item name="android:background">@color/main_color_secondary_90_percent</item>
+    </style>
+
+    <style name="LeftMenuItem">
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/text_color</item>
+    </style>
+
+    <style name="FullScreenGalleryItemTextView">
+        <item name="android:gravity">center</item>
+        <item name="android:paddingTop">16dp</item>
+        <item name="android:paddingBottom">16dp</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">#fff</item>
+    </style>
+
+    <style name="FullScreenGalleryItemTextView.Wallpaper" parent="FullScreenGalleryItemTextView">
+        <item name="android:background">@drawable/white_button_selector</item>
+    </style>
+
+    <style name="FullScreenGalleryItemTextView.AddToFavorite" parent="FullScreenGalleryItemTextView">
+        <item name="android:background">@drawable/white_button_selector</item>
+    </style>
+
+    <style name="FullScreenGalleryItemTextView.Share" parent="FullScreenGalleryItemTextView">
+        <item name="android:background">@drawable/white_button_selector</item>
+    </style>
+
+    <style name="FullScreenGalleryItemImageView.WallpaperActivity" parent="FullScreenGalleryItemTextView">
+        <item name="android:paddingTop">0dp</item>
+        <item name="android:paddingBottom">0dp</item>
+        <item name="android:background">@drawable/white_button_selector</item>
+    </style>
+
+    <style name="SplashScreenStyle">
+        <item name="android:windowBackground">@color/main_color_primary</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowAnimationStyle">@style/FadeoutSplashScreenStyle</item>
+    </style>
+
+    <style name="FadeoutSplashScreenStyle">
+        <item name="android:windowExitAnimation">@anim/splash_screen_move_out</item>
+    </style>
+
+    <style name="MyTheme" parent="@android:style/Theme.Holo.Light">
+        <item name="android:actionBarStyle">@style/MyActionBar</item>
+    </style>
+
+    <!-- the theme applied to the application or activity -->
+    <style name="CustomActionBarTheme" parent="@android:style/Theme.Holo.Light.DarkActionBar">
+        <item name="android:actionBarStyle">@style/MyActionBar</item>
+    </style>
+
+    <!-- ActionBar styles -->
+    <style name="MyActionBar" parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse">
+        <item name="android:background">@color/action_bar_color</item>
+        <item name="android:displayOptions">showHome|homeAsUp|showTitle</item>
+        <item name="android:icon">@android:color/transparent</item>
+        <item name="android:titleTextStyle">@style/MyActionBar.Text</item>
+    </style>
+
+    <style name="MyActionBar.Text" parent="@android:style/TextAppearance">
+        <item name="android:textColor">@color/action_bar_text_color</item>
+    </style>
+
+</resources>

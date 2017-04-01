@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Wallpaper App</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="error">Something went wrong, try again</string>
+    <string name="about_us">About me</string>
+    <string name="about_us_text_on_image">My experience</string>
+    <string name="about_us_header_text">Check out my freelancing experience on Upwork :\nhttps://www.upwork.com/freelancers/~01a642dc2e1b8d1aee</string>
+    <string name="about_us_subheader_text">And also my Github account with some of my personal apps : https://github.com/stefanionescu</string>
+    <string name="about_us_lorem_ipsum">Still not convinced ? Contact me on LinkedIn to see how I can help YOU get to the top of the app store :\nhttps://www.linkedin.com/in/stefan-codrin-ionescu-205521121?trk=nav_responsive_tab_profile_pic</string>
+    <string name="about_us_lorem_ipsum_short"></string>
+    <string name="select_category">Select category</string>
+    <string name="wallpaper_set">Wallpaper successfully set</string>
+    <string name="wallpaper_not_set">Wallpaper could not be set</string>
+    <string name="please_wait">Please wait</string>
+    <string name="error_occured">Error occurred</string>
+    <string name="share">"Share:"</string>
+    <string name="image_saved">Image has been added to favourites!</string>
+    <string name="removed_from_favourite">Image has been removed from favourites!</string>
+    <string name="image_not_saved">Image hasn\'t been added to favourite!</string>
+    <string name="confirm_exit">Press Back button again to exit</string>
+    <string name="recent">Recent</string>
+    <string name="favourites">Favourites</string>
+    <string name="refresh">Refresh</string>
+    <string name="search">Search</string>
+    <string name="random">Random</string>
+    <string name="sort_a_to_z">Sort (A to Z)</string>
+    <string name="sort_z_to_a">Sort (Z to A)</string>
+    <string name="rate_app">Rate this app</string>
+    <string name="more_apps">More apps</string>
+    <string name="cancel">CANCEL</string>
+    <string name="ok">OK</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="categories_label">CATEGORIES</string>
+    <string name="fragment_set_as_wallpaper">SET AS WALL</string>
+    <string name="fragment_add_to_favorites">ADD TO FAV</string>
+    <string name="fragment_remove_from_favourite">REMOVE FROM FAV</string>
+    <string name="cropandset">CROP &amp; SET</string>
+
+</resources>
